@@ -8,3 +8,5 @@
 DiffPose: Toward More Reliable 3D Pose Estimation(CVPR 2023)
 - [Paper](https://arxiv.org/abs/2211.16940) / [Review](https://regal-pomelo-a95.notion.site/DiffPose-Toward-More-Reliable-3D-Pose-Estimation-16fb60ffc1e14c5f836cc4efe4b675d3?pvs=4)
 
+DiffPose: Multi-hypothesis Human Pose Estimation using Diffusion Models(CVPR 2023)
+- [Paper](https://arxiv.org/abs/2211.16487) / [Review](https://regal-pomelo-a95.notion.site/DiffPose-Multi-hypothesis-Human-Pose-Estimation-using-Diffusion-Models-CVPR-2023-b6144950a3cc449a943a3af60da7eed8?pvs=4)
