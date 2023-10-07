@@ -6,5 +6,5 @@
 
 ## Diffusion Human pose estimation 
 DiffPose: Toward More Reliable 3D Pose Estimation(CVPR 2023)
-- [Paper](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://openaccess.thecvf.com/content/CVPR2023/papers/Gong_DiffPose_Toward_More_Reliable_3D_Pose_Estimation_CVPR_2023_paper.pdf) / [Review](https://www.google.com](https://regal-pomelo-a95.notion.site/DiffPose-Toward-More-Reliable-3D-Pose-Estimation-16fb60ffc1e14c5f836cc4efe4b675d3?pvs=4)https://regal-pomelo-a95.notion.site/DiffPose-Toward-More-Reliable-3D-Pose-Estimation-16fb60ffc1e14c5f836cc4efe4b675d3?pvs=4)
+- [Paper](https://arxiv.org/abs/2211.16940) / [Review](https://www.google.com](https://regal-pomelo-a95.notion.site/DiffPose-Toward-More-Reliable-3D-Pose-Estimation-16fb60ffc1e14c5f836cc4efe4b675d3?pvs=4)https://regal-pomelo-a95.notion.site/DiffPose-Toward-More-Reliable-3D-Pose-Estimation-16fb60ffc1e14c5f836cc4efe4b675d3?pvs=4)
 
